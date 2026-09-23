@@ -11,3 +11,7 @@ This connects to my own experience with AI and robotics projects. I have worked 
 ## Comment by Chenxin Yan (cy2558)
 
 I like the idea of giving agents room to experiment without putting the real system at risk. The read-only access and isolated testing stood out to me because they make it easier to check the results before trusting them. I'm interested in how this kind of setup can help us build confidence in agent-generated code, not just produce it faster.
+
+## Comment by GoodrainCN
+
+I agree that getting an AI system to work once is very different from making it reliable in production. What stood out to me is how small changes in the real environment can cause unexpected failures, which makes testing and monitoring just as important as building the model itself.
